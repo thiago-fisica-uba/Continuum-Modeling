@@ -45,8 +45,5 @@ d'Alembert's formula.
 
 ## Attribution
 
-The reference notes included in this repository were written by
-Prof. Julián Fernández Bonder and are hosted here for personal
-study purposes; all rights belong to the author. Any original work
-in this repository — labs, exercises, and additional summaries —
-is my own.
+Any third-party materials included in this repository remain the intellectual property of their respective authors and are hosted for personal study purposes only. 
+All original work — labs, exercises, summaries, and code — is my own.
